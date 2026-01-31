@@ -1,0 +1,10 @@
+# Local environment variables
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
